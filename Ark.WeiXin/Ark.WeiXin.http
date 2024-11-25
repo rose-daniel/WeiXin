@@ -1,0 +1,6 @@
+@Ark.WeiXin_HostAddress = http://localhost:5032
+
+GET {{Ark.WeiXin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
